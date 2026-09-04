@@ -1,0 +1,24 @@
+# Rename the app below if this name is already taken (`fly apps create <name>`
+# will tell you). Everything else here can stay as-is for a first deploy.
+app = "martech-content-agent"
+primary_region = "sin"
+
+[build]
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 0
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "512mb"
+
+# Persistent disk for SQLite (content library, usage tracking, email send
+# history) and the asset bank (uploaded + AI-generated images) -- without
+# this, every redeploy or machine restart would wipe them.
+[mounts]
+  source = "data"
+  destination = "/app/data"

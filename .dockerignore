@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.git/
+.DS_Store
+**/.DS_Store
+
+data/*.db
+data/*.db.bak-*
+# Raw 300dpi originals -- only data/assets/{project}/metadata.json and its
+# referenced files (e.g. uploads/, generated/) are ever read by the app.
+data/assets/crown-greens-images/
+
+frontend/node_modules/
+frontend/dist/
+
+tests/

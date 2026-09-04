@@ -1,0 +1,39 @@
+{
+  "project_name": "The Crown Greens",
+  "rera_number": "PR1261012600220",
+  "unit_configs": ["2BHK", "3BHK"],
+  "price_bands": {
+    "2BHK": "Starting Rs 87 Lakhs* (carpet area 66.67-76.51 sq.mt / 718-824 sq.ft)",
+    "3BHK": "Starting Rs 1.28 Cr* (carpet area 98.49 sq.mt / 1060 sq.ft)"
+  },
+  "possession_date": null,
+  "usps": [
+    "Immediately adjacent to Infosys Metro Station, Hinjawadi Phase 2",
+    "Opposite Infosys, in Hinjawadi's IT hub",
+    "Early possession: NT1 (Emerald) and NT2 (Topaz) towers already completed, avoiding the typical 3-4 year wait",
+    "20+ ready lifestyle amenities",
+    "Smart home features: keyless entry, voice control for lights/fans/AC, video door phone, 3-tier security",
+    "Panoramic bay windows and flexible work-from-home/study spaces",
+    "Developed by TCG Real Estate, part of The Chatterjee Group: 37 years legacy, 20+ years in real estate, 4 million+ sq ft developed, 1,600+ families served in Pune",
+    "Strong rental relevance given proximity to Hinjawadi's IT ecosystem and major employment hubs"
+  ],
+  "amenities": [
+    "Air-conditioned gym",
+    "Yoga / meditation / zumba area",
+    "Steam and sauna",
+    "Swimming pool with kids' pool",
+    "Walking track",
+    "Clubhouse",
+    "Banquet hall / party terrace",
+    "Party lawn",
+    "Open amphitheatre",
+    "Indoor games",
+    "Convenience store",
+    "Kids' play area",
+    "Half basketball court",
+    "Tennis court",
+    "Senior citizen corner",
+    "Jacuzzi"
+  ],
+  "location": "Hinjawadi Phase 2, Pune, Maharashtra - opposite Infosys, adjacent to Infosys Metro Station. Full address: International Biotech Park Ltd., Plot No.7, Ground Floor, Genesis Square, Rajiv Gandhi Infotech Biotech Park, MIDC, Hinjawadi Phase 2 Rd, Hinjawadi, Pune, Maharashtra 411057"
+}

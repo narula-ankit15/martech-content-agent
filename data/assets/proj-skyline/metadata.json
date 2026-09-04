@@ -1,0 +1,38 @@
+[
+  {
+    "asset_id": "proj-skyline-img-clubhouse-01",
+    "project_id": "proj-skyline",
+    "url": "https://cdn.example.com/proj-skyline/clubhouse-pool.jpg",
+    "kind": "image",
+    "tags": ["clubhouse", "infinity pool", "amenities", "exterior"],
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "asset_id": "proj-skyline-img-3bhk-interior-01",
+    "project_id": "proj-skyline",
+    "url": "https://cdn.example.com/proj-skyline/3bhk-living-room.jpg",
+    "kind": "image",
+    "tags": ["3bhk", "interior", "living room"],
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "asset_id": "proj-skyline-img-riverside-view-01",
+    "project_id": "proj-skyline",
+    "url": "https://cdn.example.com/proj-skyline/riverside-view.jpg",
+    "kind": "image",
+    "tags": ["riverside", "view", "exterior", "sunset"],
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "asset_id": "proj-skyline-video-walkthrough-01",
+    "project_id": "proj-skyline",
+    "url": "https://cdn.example.com/proj-skyline/walkthrough.mp4",
+    "kind": "video",
+    "tags": ["walkthrough", "3bhk", "interior"],
+    "width": 1920,
+    "height": 1080
+  }
+]

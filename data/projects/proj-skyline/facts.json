@@ -1,0 +1,14 @@
+{
+  "project_name": "Skyline Heights",
+  "rera_number": "P51700012345",
+  "unit_configs": ["2BHK", "3BHK", "4BHK"],
+  "price_bands": {
+    "2BHK": "95L - 1.1Cr",
+    "3BHK": "1.4Cr - 1.7Cr",
+    "4BHK": "2.1Cr - 2.6Cr"
+  },
+  "possession_date": "December 2027",
+  "usps": ["Riverside views", "5-minute walk to metro", "Zero-brokerage launch offer"],
+  "amenities": ["Clubhouse", "Infinity pool", "Gym", "Kids play area", "24x7 security"],
+  "location": "Bandra East, Mumbai"
+}

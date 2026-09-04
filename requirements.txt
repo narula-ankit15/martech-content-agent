@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+pydantic-settings
+python-dotenv
+
+langgraph
+langchain-core
+
+google-genai
+pinecone
+
+pypdf
+shortuuid
+Pillow
